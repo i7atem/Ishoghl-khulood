@@ -1,0 +1,14 @@
+{
+  "name": "شغل خلود",
+  "short_name": "شغل خلود",
+  "description": "إدارة زبائن ومبيعات وطلبات الأثاث والعمولات",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#17152f",
+  "theme_color": "#17152f",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
